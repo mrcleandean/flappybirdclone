@@ -25,5 +25,7 @@ npm run dev
 
 ## Snapshot
 
+![Flappy Bird Snapshot](public/demo.png "Interactive and fun!")
+
 ## Acknowledgments
 Hat tip to the original creators of Flappy Bird for inspiring this project.
