@@ -23,9 +23,9 @@ npm install
 npm run dev
 ```
 
+## Acknowledgments
+Hat tip to the original creators of Flappy Bird for inspiring this project.
+
 ## Snapshot
 
 ![Flappy Bird Snapshot](public/demo.png "Interactive and fun!")
-
-## Acknowledgments
-Hat tip to the original creators of Flappy Bird for inspiring this project.
