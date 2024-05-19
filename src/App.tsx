@@ -82,7 +82,7 @@ const FlappyBirdClone = () => {
         ref={canvasRef}
         width={375}
         height={665}
-        className="w-full h-full max-w-fit max-h-fit object-contain block"
+        className="w-screen h-screen object-contain block"
       />
     </div>
   )
